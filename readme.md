@@ -42,7 +42,7 @@ Download the map from https://github.com/treemlt/7daysmap/releases/download/late
 
 ## 5. Install the Map 📥
 
-1. Select the extracted folder (should contain files like `regions.xml`, `spawnpoints.xml`, etc.).  
+1. Select the extracted folder (should contain files like `prefabs.xml`, `spawnpoints.xml`, etc.).  
 2. **Copy** or **move** that entire folder into your `Worlds` directory:
 
    ```
