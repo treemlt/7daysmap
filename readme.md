@@ -1,66 +1,70 @@
-# Installing Tree Gaming latest map in 7 Days To Die
+**:blue_book: Installing Tree Gaming's Latest Map in 7 Days To Die**
 
 Follow these steps to add the current map to your game:
 
 ---
 
-## 1. Locate Your Game Folder 📂
+**:one: Locate Your Game Folder :open_file_folder:**
 
-The default Steam install path is:
-
+Default Steam path:
 ```
 C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die
 ```
 
-> **Tip:** If you installed Steam or the game to another drive/folder, navigate there instead.
+*If you installed Steam elsewhere, navigate to that location.*
 
 ---
 
-## 2. Open the Worlds Directory 🔍
+**:two: Open the Worlds Directory :mag:**
 
-Inside the game folder, go to:
-
+Navigate to:
 ```
 7 Days To Die → Data → Worlds
 ```
 
 ---
 
-## 3. Download the Map 🌐
+**:three: Download the Map :globe_with_meridians:**
 
-Download the map from https://github.com/treemlt/7daysmap/releases/download/latest-map/treeworld.zip
----
-
-## 4. Extract the Archive 🗜️
-
-1. Install WinRAR (or another .rar extractor):  
-   https://www.win-rar.com/download.html?&L=0  
-2. **Right-click** the `.rar` file → **Extract to `<archive-name>\`**  
-3. You’ll get a folder named after the archive, containing the map files.
+:inbox_tray: [Download the latest map](https://github.com/treemlt/7daysmap/releases/download/latest-map/treeworld.zip)
 
 ---
 
-## 5. Install the Map 📥
+**:four: Extract the Archive :compression:**
 
-1. Select the extracted folder (should contain files like `prefabs.xml`, `spawnpoints.xml`, etc.).  
-2. **Copy** or **move** that entire folder into your `Worlds` directory:
-
-   ```
-   …\7 Days To Die\Data\Worlds\<Your-Map-Folder>\
-   ```
+1. Install [WinRAR](https://www.win-rar.com/download.html?&L=0) or another .rar extractor  
+2. Right-click the `.zip` or `.rar` file → **Extract to `treeworld\`**  
+3. You’ll get a folder named `treeworld` with the map folder inside.
 
 ---
 
-## 6. Launch the Game ▶️
+**:five: Install the Map :inbox_tray:**
 
-- **Start** or **restart** 7 Days To Die.  
+Copy or move the map folder inside **`treeworld`** to:
+
+```
+...\7 Days To Die\Data\Worlds\
+```
+
+It should now look like:
+```
+...\Worlds\MAPNAME\prefabs.xml, spawnpoints.xml, etc.
+```
+
+> ⚠️ **Do NOT place the `treeworld` folder itself inside the Worlds folder.**  
+> You must move the actual map folder *inside* `treeworld`.
 
 ---
 
-🎉 **Enjoy your new map!**  
-If you encounter issues, double-check:
+**:six: Launch the Game :arrow_forward:**
 
-- The folder path is exactly `…\Worlds\<MapFolder>\[map files]`  
-- You’re running the correct game version (mod compatibility)  
+- Start or restart **7 Days To Die**
 
-Happy surviving! 🧟‍♂️  
+---
+
+:white_check_mark: **Enjoy the new map!**  
+If something doesn’t work:
+- Make sure the folder structure is correct  
+- Ensure you’re running the right game version
+
+:zombie: Happy surviving!
