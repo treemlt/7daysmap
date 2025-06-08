@@ -28,12 +28,7 @@ Inside the game folder, go to:
 
 ## 3. Download the Map 🌐
 
-1. Find your desired map (distributed as a `.rar` archive).  
-2. Download it to a location of your choice (e.g., your **Downloads** folder).  
-
-> **Example map source:**  
-> https://www.nexusmods.com/7daystodie/maps
-
+Download the map from https://github.com/treemlt/7daysmap/releases/download/latest-map/treeworld.zip
 ---
 
 ## 4. Extract the Archive 🗜️
