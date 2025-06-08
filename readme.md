@@ -54,8 +54,6 @@ Download the map from https://github.com/treemlt/7daysmap/releases/download/late
 ## 6. Launch the Game ▶️
 
 - **Start** or **restart** 7 Days To Die.  
-- On the **Main Menu**, click **New Game** (or load an existing save).  
-- Your custom map will appear in the **“World”** dropdown.  
 
 ---
 
