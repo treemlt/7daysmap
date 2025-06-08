@@ -1,6 +1,6 @@
-# Installing a Custom Map in 7 Days To Die
+# Installing Tree Gaming latest map in 7 Days To Die
 
-Follow these steps to add a new custom map to your game:
+Follow these steps to add the current map to your game:
 
 ---
 
